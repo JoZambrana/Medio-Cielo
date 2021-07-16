@@ -96,10 +96,20 @@ body {
 }
 
 .aromas {
-  color: #bb2727;
+  color: #aa275e;
 }
 
 .formulario {
   margin: 10%;
+}
+
+.carousel-control-next {
+  background-color: #aa275e;
+  width: 2%;
+}
+
+.carousel-control-prev {
+  background-color: #aa275e;
+  width: 2%;
 }
 /*# sourceMappingURL=style.css.map */
