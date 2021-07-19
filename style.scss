@@ -104,11 +104,23 @@ body {
   .formulario {
     margin: 10%;
   }
+  .barra{
+    text-align: center;
+    background-color: #be5380;
+  }
+  .barrad{
+    color: white;
+    text-decoration: none;
+  }
+  /*--
   .carousel-control-next{
     background-color: #aa275e;
-    width: 2%;
+    border-radius: 50%;
+    width: 28px;
   }
   .carousel-control-prev{
     background-color: #aa275e;
-    width: 2%;
-  }
+    width: 28px;
+    border-radius: 50%;
+  }*/
+  

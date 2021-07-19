@@ -103,13 +103,25 @@ body {
   margin: 10%;
 }
 
-.carousel-control-next {
-  background-color: #aa275e;
-  width: 2%;
+.barra {
+  text-align: center;
+  background-color: #be5380;
 }
 
-.carousel-control-prev {
-  background-color: #aa275e;
-  width: 2%;
+.barrad {
+  color: white;
+  text-decoration: none;
 }
+
+/*--
+  .carousel-control-next{
+    background-color: #aa275e;
+    border-radius: 50%;
+    width: 28px;
+  }
+  .carousel-control-prev{
+    background-color: #aa275e;
+    width: 28px;
+    border-radius: 50%;
+  }*/
 /*# sourceMappingURL=style.css.map */
