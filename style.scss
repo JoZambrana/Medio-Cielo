@@ -123,4 +123,34 @@ body {
     width: 28px;
     border-radius: 50%;
   }*/
-  
+  #logoFooter{
+    background-image: url(logo2.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+  }
+  .boxFooter{
+    float: left;
+    width: 50%;
+    margin-left: 100px;
+    p{
+      margin-top: 80px;
+    }
+  }
+  .flexFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    p{
+      width: 50%;
+      margin-top: 80px;
+    }
+  }
+  .productosDerecha{
+    text-align: right;
+    p{
+      margin-left: 100px;
+    }
+  }
