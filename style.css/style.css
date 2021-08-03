@@ -12,7 +12,7 @@ body {
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
-  color: #148b24;
+  color: #27859c;
 }
 
 .carousel-item {
@@ -85,10 +85,24 @@ body {
 .barra {
   text-align: center;
   background-color: #be5380;
+  text-decoration: none;
 }
 
 .barrad {
   color: white;
   text-decoration: none;
+}
+
+.btn {
+  background-color: #be5380;
+}
+
+.aprovechar {
+  text-align: center;
+  color: grey;
+}
+
+.w-100 {
+  color: honeydew;
 }
 /*# sourceMappingURL=style.css.map */
